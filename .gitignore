@@ -1,0 +1,6 @@
+a1.input-variable.tf
+terraform_advance_assessment
+.terraform 
+# terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
